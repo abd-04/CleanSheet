@@ -12,8 +12,7 @@
 - **Preview Data**: View a preview of the original and cleaned data before downloading.
 - **Download Cleaned Data**: Download the cleaned data in CSV format.
 
-## Demo
-Check out the live demo of CleanSheet [here](#link-to-demo) (if applicable).
+
 
 ## Installation
 
