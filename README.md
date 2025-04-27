@@ -1,8 +1,8 @@
 # Writing the README content into a text file
-readme_content = """
+
 # CleanSheet CSV Cleaner
 
-🛠️ **CleanSheet** is a user-friendly Streamlit app designed to clean and preprocess your CSV files with just a few clicks. Whether you're handling null values, cleaning special characters, or removing duplicates, CleanSheet makes it easy to ensure your data is ready for analysis.
+🛠️ **CleanSheet** is a user-friendly Streamlit app designed to clean and preprocess your CSV files with just a few clicks. Whether handling null values, cleaning special characters, or removing duplicates, CleanSheet makes it easy to ensure your data is ready for analysis.
 
 ## Features
 - **Upload CSV Files**: Simply upload your CSV file to get started.
